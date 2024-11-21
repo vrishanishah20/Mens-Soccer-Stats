@@ -29,5 +29,20 @@ Install the required libraries using pip:
 pip install -r requirements.txt
 ```
 
+## Usage
 
+1.	Run the Streamlit App:
+ ```bash
+streamlit run app.py
+```
 
+2.	Upload a Video:
+	•	Once the app is running, you can upload a soccer match video from the interface.
+3.	Configure Settings:
+	•	Enter your OpenAI API key in the settings sidebar.
+4.	Analyze Video:
+	•	The app will process the video and provide AI-generated insights on the extracted frames.
+
+## About
+
+This app is a powerful tool for soccer coaches looking to enhance their game analysis and decision-making. By leveraging advanced video processing and AI-powered insights, coaches can quickly identify key moments in a match, assess player performance, and gain strategic insights. The Soccer Match Video Analyzer simplifies the process of analyzing game footage, enabling coaches to focus on creating winning strategies and improving team performance.
