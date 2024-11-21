@@ -14,6 +14,8 @@ This app is a powerful tool for soccer coaches looking to enhance their game ana
 2. Pin pointing the strengths and weaknesses of players based on the entire roster of players, applying formulae to find the range in which the players lie.
 3. Prediction model to predict the probability of a goal using the players position using appropriate features.
 
+Descriptive EDA is done in the `offensive_stats.ipynb` file and `preprocessing_player_data.ipynb`. 
+
 ## Features
 
 - **Video Frame Extraction**: Extracts frames from uploaded soccer match videos at regular intervals.
