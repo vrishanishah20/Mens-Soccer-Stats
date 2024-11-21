@@ -1,0 +1,1200 @@
+player_name,Position,xg,goal_scored,xG_vs_Goals
+A. Bilow,CF,0.23,1,-0.77
+A. Bilow,LAMF,0.27,1,-0.73
+A. Bilow,"LCMF, RW",0.06,0,0.06
+A. Bilow,"LW, CF",0.54,0,0.54
+A. Bilow,"LW, RCMF3",0.26,0,0.26
+A. Bilow,RAMF,0.41,0,0.41
+A. Bilow,"RAMF, RW",0.05,0,0.05
+A. Bilow,"RW, CF",0.11,0,0.11
+A. Camara,AMF,0.95,0,0.95
+A. Camara,"AMF, CF",0.19,0,0.19
+A. Camara,"AMF, CF, RAMF",0.76,1,-0.24
+A. Camara,CF,22.18,1,21.18
+A. Camara,"CF, LW",0.75,1,-0.25
+A. Camara,"CF, LWB",0.46,1,-0.54
+A. Camara,"CF, RW",0.62,1,-0.38
+A. Camara,"RWF, CF",0.11,0,0.11
+A. Hall,AMF,0.47,1,-0.53
+A. Hall,"AMF, CF",0.04,0,0.04
+A. Hall,CF,0.02,0,0.02
+A. Hall,"LW, CF",0.35,0,0.35
+A. Hall,"RW, CF",0.05,0,0.05
+A. Kato,CF,2.41,1,1.4100000000000001
+A. Narang,AMF,0.13,0,0.13
+A. Narang,DMF,0.11,0,0.11
+A. Narang,"DMF, LCMF",0.02,0,0.02
+A. Narang,RCMF3,0.17,0,0.17
+A. Ndrenika,AMF,0.25,0,0.25
+A. Ndrenika,"AMF, LAMF",0.25,0,0.25
+A. Ndrenika,"AMF, LCMF",0.25,1,-0.75
+A. Ndrenika,"AMF, LW",0.17,0,0.17
+A. Ndrenika,"AMF, RDMF",0.0,0,0.0
+A. Ndrenika,LAMF,0.2,0,0.2
+A. Ndrenika,"LAMF, LDMF",0.29,0,0.29
+A. Ndrenika,LCMF,0.5,1,-0.5
+A. Ndrenika,"LCMF, LW",0.01,0,0.01
+A. Ndrenika,"LCMF, RCMF",0.15,0,0.15
+A. Ndrenika,"LDMF, RAMF",0.02,0,0.02
+A. Ndrenika,RCMF,0.38,1,-0.62
+A. Ndrenika,"RCMF, RW",0.38,0,0.38
+A. Nitzl,"AMF, LDMF",0.01,0,0.01
+A. Nitzl,"DMF, LB",0.06,0,0.06
+A. Nitzl,"LB, RDMF",0.0,0,0.0
+A. Nitzl,"LCB, RDMF",0.0,0,0.0
+A. Nitzl,LCMF,0.08,0,0.08
+A. Nitzl,LDMF,0.08,0,0.08
+A. Nitzl,"LDMF, RB, RDMF",0.01,0,0.01
+A. Nitzl,"LDMF, RDMF",0.0,0,0.0
+A. Nitzl,RDMF,0.03,0,0.03
+A. Ochoa,AMF,0.74,0,0.74
+A. Ochoa,"AMF, CF",0.4,0,0.4
+A. Ochoa,"AMF, CF, RWF",0.01,0,0.01
+A. Ochoa,"AMF, LCMF",0.1,1,-0.9
+A. Ochoa,"AMF, LCMF, LDMF",0.08,1,-0.92
+A. Ochoa,"AMF, LDMF, RDMF",0.01,0,0.01
+A. Ochoa,CF,1.7999999999999998,1,0.7999999999999998
+A. Ochoa,"CF, LAMF",0.4,0,0.4
+A. Ochoa,"CF, LCMF",0.57,1,-0.43000000000000005
+A. Ochoa,"CF, LCMF3",1.01,1,0.010000000000000009
+A. Ochoa,"CF, LCMF3, LWF",1.01,0,1.01
+A. Ochoa,"CF, LW",0.06,0,0.06
+A. Ochoa,"CF, RB, RCMF3, RW",0.26,1,-0.74
+A. Ochoa,"CF, RCMF, RW",0.36,0,0.36
+A. Ochoa,"DMF, LW",0.26,0,0.26
+A. Ochoa,"LAMF, LW, RW",0.16,0,0.16
+A. Ochoa,"LAMF, RAMF",0.38,0,0.38
+A. Ochoa,LCMF,0.04,0,0.04
+A. Ochoa,"LCMF, LW",0.74,1,-0.26
+A. Ochoa,"LCMF, RAMF, RDMF",0.55,0,0.55
+A. Ochoa,"LCMF, RCMF",0.97,1,-0.030000000000000027
+A. Ochoa,"LCMF3, LWF",0.1,0,0.1
+A. Ochoa,"LCMF3, RCMF",0.38,0,0.38
+A. Ochoa,"LCMF3, RWF",0.05,0,0.05
+A. Ochoa,LDMF,0.0,0,0.0
+A. Ochoa,"LDMF, RDMF",0.02,0,0.02
+A. Ochoa,"LW, RCMF",0.07,0,0.07
+A. Ochoa,LWF,1.76,1,0.76
+A. Ochoa,"LWF, RCMF, RWF",0.15,0,0.15
+A. Ochoa,"LWF, RWF",0.05,0,0.05
+A. Ochoa,"RCMF, RCMF3",0.0,0,0.0
+A. Ochoa,"RCMF, RCMF3, RW",0.02,0,0.02
+A. Ochoa,RWF,0.3899999999999999,1,-0.6100000000000001
+A. Roberts,"CF, RW",0.36,0,0.36
+A. Roberts,"LB, LCMF",0.03,0,0.03
+A. Roberts,LCMF,0.15,0,0.15
+A. Roberts,"LCMF, LW, RW",0.21,1,-0.79
+A. Roberts,"LCMF, RW",0.17,0,0.17
+A. Roberts,"RAMF, RB",0.78,1,-0.21999999999999997
+A. Roberts,"RB, RCMF",0.39,0,0.39
+A. Samways,"LCMF, RCMF",0.05,0,0.05
+A. Vovk,CF,1.59,1,0.5900000000000001
+A. Vovk,"CF, LW",0.55,0,0.55
+A. Vovk,"CF, RB",0.35,0,0.35
+A.Awujo,CF,4.26,1,3.26
+A.Awujo,"CF, RAMF",0.22,0,0.22
+A.Awujo,"CF, RDMF",0.5,1,-0.5
+A.Awujo,"CF, RW",0.34,0,0.34
+A.Awujo,LAMF,0.19,1,-0.81
+A.Awujo,"LAMF, RAMF",0.19,0,0.19
+A.Awujo,"LAMF, RAMF, CF",0.19,0,0.19
+A.Awujo,"LWF, RAMF, RW",0.95,1,-0.050000000000000044
+A.Awujo,"LWF, RWF",1.4,1,0.3999999999999999
+A.Awujo,RAMF,1.46,0,1.46
+A.Awujo,"RCMF, RW",0.01,0,0.01
+A.Awujo,"RCMF3, RWF",0.01,0,0.01
+A.Awujo,"RW, CF",0.14,0,0.14
+B. Blevins,"AMF, LAMF, LCMF, RCMF",0.25,0,0.25
+B. Blevins,"AMF, LCMF",0.11,0,0.11
+B. Blevins,"AMF, LW, RW",0.09,0,0.09
+B. Blevins,"AMF, LWB",0.17,1,-0.83
+B. Blevins,"AMF, RCMF3",0.16,0,0.16
+B. Blevins,CF,0.03,0,0.03
+B. Blevins,"CF, RW",0.27,0,0.27
+B. Blevins,DMF,0.23,0,0.23
+B. Blevins,LAMF,0.56,1,-0.43999999999999995
+B. Blevins,"LAMF, LW",0.35,0,0.35
+B. Blevins,"LAMF, RAMF, RCMF3",0.0,0,0.0
+B. Blevins,"LB, LW, LWF",0.87,1,-0.13
+B. Blevins,LCMF,0.06,0,0.06
+B. Blevins,"LCMF, LCMF3, LW, RW",0.1,0,0.1
+B. Blevins,"LCMF, LW, RCMF",0.8200000000000001,1,-0.17999999999999994
+B. Blevins,"LCMF, RCMF",0.18,1,-0.8200000000000001
+B. Blevins,"LCMF, RCMF, RW",0.04,0,0.04
+B. Blevins,LCMF3,0.05,0,0.05
+B. Blevins,"LDMF, RCMF",0.01,0,0.01
+B. Blevins,"LWB, LWF",0.03,0,0.03
+B. Blevins,"LWB, RWF",0.3399999999999999,0,0.3399999999999999
+B. Blevins,RAMF,0.19,0,0.19
+B. Blevins,"RAMF, RW",0.07,0,0.07
+B. Blevins,RCMF3,0.2,0,0.2
+B. Clagette,CF,2.42,1,1.42
+B. Clagette,"CF, RB, RWF",0.04,0,0.04
+B. Clagette,RAMF,0.57,1,-0.43000000000000005
+B. Clagette,"RAMF, RB5",0.1,0,0.1
+B. Clagette,"RCMF3, RW",0.11,0,0.11
+B. Keating,CF,0.45,1,-0.55
+B. Keating,"CF, LWF",0.12,0,0.12
+B. Keating,"CF, RAMF",0.01,0,0.01
+B. LeBel,"DMF, LCB, LCB3",0.08,0,0.08
+B. Liscum,"AMF, RAMF, RW",0.42,1,-0.5800000000000001
+B. Liscum,CF,0.54,0,0.54
+B. Liscum,"CF, RAMF",0.28,0,0.28
+B. Liscum,LAMF,0.29,0,0.29
+B. Liscum,"LAMF, LWB, RAMF",0.42,0,0.42
+B. Liscum,LCMF,0.47,1,-0.53
+B. Liscum,LCMF3,0.17,0,0.17
+B. Liscum,LDMF,0.29,0,0.29
+B. Liscum,"LWF, RCMF3",0.16,0,0.16
+B. Liscum,RAMF,0.14,1,-0.86
+B. Liscum,RCMF,0.22,0,0.22
+B. Liscum,RCMF3,0.01,0,0.01
+B. Madore,"AMF, CF",0.14,0,0.14
+B. Madore,"AMF, RWB",0.07,0,0.07
+B. Madore,CF,0.12,0,0.12
+B. Soto,"AMF, CF",0.11,0,0.11
+B. Soto,"AMF, LAMF, RAMF",0.09,0,0.09
+B. Soto,"AMF, RAMF",0.1,0,0.1
+B. Soto,CF,0.7,0,0.7
+B. Soto,"CF, LCMF3",0.1,0,0.1
+B. Soto,"CF, LWF, RWF",0.11,1,-0.89
+B. Soto,"CF, RAMF",0.21,1,-0.79
+B. Soto,"CF, RCMF3",0.11,1,-0.89
+B. Soto,"CF, RWF",0.56,1,-0.43999999999999995
+B. Soto,"LAMF, RAMF",1.18,1,0.17999999999999994
+B. Soto,"LCMF, LW",0.22,0,0.22
+B. Soto,"LCMF3, CF",0.1399999999999999,0,0.1399999999999999
+B. Soto,"LW, LWF, RWF",0.0,0,0.0
+B. Soto,"LW, RW, CF",0.06,0,0.06
+B. Soto,LWF,1.41,1,0.4099999999999999
+B. Soto,"LWF, RAMF, RWF",0.07,0,0.07
+B. Soto,"LWF, RWF",0.76,0,0.76
+B. Soto,RAMF,2.28,1,1.2799999999999998
+B. Soto,"RCMF3, RWF",0.12,0,0.12
+B. Soto,"RW, RWF",0.07,0,0.07
+B. Soto,RWF,2.82,1,1.8199999999999998
+C. Arce,"AMF, LDMF",0.0,0,0.0
+C. Arce,DMF,0.04,0,0.04
+C. Arce,"LCMF, RCMF",0.57,0,0.57
+C. Arce,LDMF,0.05,0,0.05
+C. Arce,"LDMF, RDMF",0.19,0,0.19
+C. Arce,RCMF,1.77,1,0.77
+C. Bruletti,"AMF, DMF",0.54,0,0.54
+C. Bruletti,DMF,0.2,0,0.2
+C. Bruletti,"DMF, LCMF3",0.2,0,0.2
+C. Bruletti,"DMF, LCMF3, RCMF3",0.55,0,0.55
+C. Bruletti,LCMF,0.17,0,0.17
+C. Bruletti,"LCMF, RCMF",0.19,0,0.19
+C. Bruletti,"LDMF, RDMF",0.76,1,-0.24
+C. Bruletti,RCMF,0.47,0,0.47
+C. Bruletti,RCMF3,0.01,0,0.01
+C. Bruletti,RDMF,0.01,0,0.01
+C. Brunell,AMF,0.41,1,-0.5900000000000001
+C. Brunell,"AMF, RDMF",0.09,0,0.09
+C. Brunell,"AMF, RW",0.25,1,-0.75
+C. Brunell,CF,0.49,0,0.49
+C. Brunell,"CF, RAMF",0.1,0,0.1
+C. Brunell,LAMF,0.03,0,0.03
+C. Brunell,RAMF,0.49,0,0.49
+C. Brunell,"RAMF, RW",0.43,0,0.43
+C. Brunell,"RW, CF",0.05,0,0.05
+C. Buckley,AMF,0.96,1,-0.040000000000000036
+C. Buckley,"AMF, DMF, LDMF, RCMF3",0.21,0,0.21
+C. Buckley,"AMF, LCMF",0.03,0,0.03
+C. Buckley,"AMF, RCMF",0.2,0,0.2
+C. Buckley,CF,1.96,1,0.96
+C. Buckley,"DMF, LCMF",0.0,0,0.0
+C. Buckley,"LCMF, LWB, RWB",0.16,0,0.16
+C. Buckley,"LCMF, RCMF",0.17,0,0.17
+C. Buckley,"LCMF3, RCMF3",0.05,0,0.05
+C. Buckley,"LWB, RCMF3, CF",0.27,0,0.27
+C. Buckley,RCMF,0.06,0,0.06
+C. Buckley,"RCMF, CF",0.73,1,-0.27
+C. Buckley,"RCMF, RCMF3",0.02,0,0.02
+C. Buckley,RCMF3,1.16,0,1.16
+C. Calov,AMF,3.19,1,2.19
+C. Calov,"AMF, CF",0.21,0,0.21
+C. Calov,"AMF, CF, RAMF",0.97,1,-0.030000000000000027
+C. Calov,"AMF, CF, RCMF",0.13,0,0.13
+C. Calov,"AMF, LAMF",1.38,1,0.3799999999999999
+C. Calov,"AMF, LAMF, LW",0.23,0,0.23
+C. Calov,"AMF, LCMF",0.29,1,-0.71
+C. Calov,"AMF, LCMF3",0.09,0,0.09
+C. Calov,"AMF, LW, RW",0.05,0,0.05
+C. Calov,"AMF, RCMF3",0.01,0,0.01
+C. Calov,"AMF, RW",0.97,1,-0.030000000000000027
+C. Calov,CF,0.97,1,-0.030000000000000027
+C. Calov,"CF, LWF",0.58,0,0.58
+C. Calov,"CF, RWB",0.37,0,0.37
+C. Calov,"CF, RWF",0.38,0,0.38
+C. Calov,LAMF,0.39,0,0.39
+C. Calov,"LAMF, LCMF",0.17,0,0.17
+C. Calov,LCMF,0.13,0,0.13
+C. Calov,"LCMF, LW, CF",0.47,0,0.47
+C. Calov,"LCMF, LW, RW",0.12,0,0.12
+C. Calov,"LCMF, RCMF",0.15,0,0.15
+C. Calov,"LCMF, RWB",0.01,0,0.01
+C. Calov,"LCMF3, RCMF3",0.19,0,0.19
+C. Calov,"LWB, CF",0.07,0,0.07
+C. Calov,"LWB, LWF, RB5",0.08,0,0.08
+C. Calov,"LWB, LWF, RWF",0.07,0,0.07
+C. Calov,"LWB, RWB, RWF",0.01,0,0.01
+C. Calov,"LWF, RW",0.46,0,0.46
+C. Calov,RCMF3,0.06,0,0.06
+C. Calov,"RCMF3, CF",0.67,1,-0.32999999999999996
+C. Calov,"RW, RWB, RWF",0.46,1,-0.54
+C. Calov,RWF,0.03,0,0.03
+C. Crockford,AMF,0.2799999999999999,0,0.2799999999999999
+C. Crockford,"AMF, LCMF, LDMF",0.05,0,0.05
+C. Crockford,CF,0.37,1,-0.63
+C. Crockford,LCMF,0.01,0,0.01
+C. Crockford,RDMF,0.15,0,0.15
+C. Cruthers,DMF,0.05,0,0.05
+C. Cruthers,"DMF, LDMF",0.08,0,0.08
+C. Cruthers,"DMF, RCMF",0.09,0,0.09
+C. Cruthers,"DMF, RDMF",0.0,0,0.0
+C. Cruthers,LCMF,0.44,1,-0.56
+C. Cruthers,"LCMF, LDMF",0.09,0,0.09
+C. Cruthers,"LCMF, RCMF",0.03,0,0.03
+C. Cruthers,LDMF,0.6,0,0.6
+C. Cruthers,RCMF,0.14,0,0.14
+C. Cruthers,RCMF3,0.2,0,0.2
+C. Desroches,CF,0.21,0,0.21
+C. Dionne,AMF,1.29,0,1.29
+C. Dionne,"AMF, CF",0.14,0,0.14
+C. Dionne,"AMF, LAMF",0.51,0,0.51
+C. Dionne,"AMF, LW",0.3,0,0.3
+C. Dionne,CF,0.5800000000000001,1,-0.41999999999999993
+C. Dionne,"CF, LW",0.0,0,0.0
+C. Dionne,"CF, RW",0.01,0,0.01
+C. Dionne,"RW, CF",0.02,0,0.02
+C. Gerber,"CF, RW",0.2,0,0.2
+C. Grabfelder,AMF,0.18,1,-0.8200000000000001
+C. Grabfelder,"AMF, LAMF, LW, RCMF3",0.06,0,0.06
+C. Grabfelder,"AMF, LCMF",0.05,0,0.05
+C. Grabfelder,"AMF, LCMF, RCMF",0.06,0,0.06
+C. Grabfelder,CF,0.27,0,0.27
+C. Grabfelder,"CF, RCMF",0.07,1,-0.9299999999999999
+C. Grabfelder,"LAMF, LWF",0.1,1,-0.9
+C. Grabfelder,"LAMF, RDMF",0.31,0,0.31
+C. Grabfelder,"LCMF, LW",0.05,0,0.05
+C. Grabfelder,LCMF3,0.69,1,-0.31000000000000005
+C. Grabfelder,RCMF,0.07,0,0.07
+C. Grabfelder,RCMF3,0.02,1,-0.98
+C. Griffith,"AMF, CF",0.02,0,0.02
+C. Griffith,"AMF, RAMF",0.16,0,0.16
+C. Griffith,CF,2.9299999999999997,1,1.9299999999999997
+C. Griffith,"CF, LAMF",2.05,1,1.0499999999999998
+C. Griffith,"CF, LW",1.81,1,0.81
+C. Griffith,LAMF,0.54,1,-0.45999999999999996
+C. Griffith,"LW, RCMF",0.04,0,0.04
+C. Heuer,CF,0.21,0,0.21
+C. Heuer,RCMF,0.35,1,-0.65
+C. Kosakoff,CF,5.45,1,4.45
+C. Lawrence,AMF,0.03,0,0.03
+C. Lawrence,"AMF, CF",0.0,0,0.0
+C. Lawrence,"AMF, LAMF",0.03,0,0.03
+C. Lawrence,CF,0.22,0,0.22
+C. Lawrence,LAMF,0.54,1,-0.45999999999999996
+C. Lawrence,"LAMF, LW",0.06,0,0.06
+C. Lawrence,LCMF,0.42,0,0.42
+C. Lawrence,"LCMF, LDMF, RCMF3",0.03,0,0.03
+C. Lawrence,"LCMF, LW",0.1,0,0.1
+C. Lawrence,"LCMF, RCMF",0.02,0,0.02
+C. Lawrence,"LWF, RWF",1.14,1,0.1399999999999999
+C. Lawrence,RCMF,0.0,0,0.0
+C. Lawrence,"RCMF, RW",0.03,0,0.03
+C. Leber,"CF, RB5, RW",0.23,0,0.23
+C. Leber,RAMF,0.17,0,0.17
+C. Leber,"RAMF, RW",0.16,0,0.16
+C. Lofy,"CF, RCMF",0.04,0,0.04
+C. Lofy,"LCMF, LDMF, CF",0.12,0,0.12
+C. Lofy,LDMF,0.29,0,0.29
+C. Lofy,"LDMF, RDMF",0.02,0,0.02
+C. Lofy,RCMF,0.07,0,0.07
+C. Lofy,RDMF,0.06,0,0.06
+C. McCamy,"AMF, LDMF, RDMF",0.0,0,0.0
+C. McCamy,DMF,0.19,1,-0.81
+C. McCamy,"DMF, LB",0.02,0,0.02
+C. McCamy,"DMF, LCMF, RCMF",0.08,0,0.08
+C. McCamy,"LAMF, LDMF",0.11,1,-0.89
+C. McCamy,"LAMF, RDMF",0.0,0,0.0
+C. McCamy,"LB, LDMF",0.0,0,0.0
+C. McCamy,LCMF,0.98,0,0.98
+C. McCamy,"LCMF, LDMF",0.2799999999999999,1,-0.7200000000000001
+C. McCamy,"LCMF, LW",0.21,0,0.21
+C. McCamy,"LCMF, RCMF",0.03,0,0.03
+C. McCamy,"LCMF3, RCMF3",0.09,0,0.09
+C. McCamy,LDMF,0.6900000000000001,0,0.6900000000000001
+C. McCamy,"LDMF, RDMF",0.07,0,0.07
+C. McCamy,"LW, RCMF",0.21,0,0.21
+C. McCamy,RCMF,0.19,0,0.19
+C. McCamy,"RCMF, RCMF3, RDMF",0.01,0,0.01
+C. McCamy,"RCMF, RW",0.06,0,0.06
+C. McCamy,RDMF,0.01,0,0.01
+C. Meyers,CF,0.2,0,0.2
+C. Meyers,"LAMF, LB",0.0,0,0.0
+C. Meyers,"LB, LCMF",0.0,0,0.0
+C. Murador,CF,0.09,0,0.09
+C. Murador,LAMF,0.03,0,0.03
+C. Murador,"LW, CF",0.32,0,0.32
+C. Murador,LWF,0.09,0,0.09
+C. Oduro,"AMF, LAMF, RAMF",0.18,1,-0.8200000000000001
+C. Oduro,CF,2.03,0,2.03
+C. Oduro,"CF, LW",0.46,0,0.46
+C. Oduro,"CF, LW, RW",0.75,1,-0.25
+C. Oduro,"CF, RW",0.06,0,0.06
+C. Oduro,"LAMF, LW, RW",0.16,0,0.16
+C. Oduro,LCMF3,0.01,0,0.01
+C. Oduro,"LW, CF",0.5,1,-0.5
+C. Oduro,"LW, RAMF",0.01,0,0.01
+C. Oduro,"LW, RW, CF",0.33,0,0.33
+C. Oduro,LWF,0.55,1,-0.44999999999999996
+C. Oduro,"RW, CF",0.06,0,0.06
+C. Oliver,"AMF, CF",0.04,0,0.04
+C. Oliver,"AMF, RAMF",0.1,0,0.1
+C. Oliver,CF,0.54,0,0.54
+C. Oliver,"CF, RWB",0.03,0,0.03
+C. Oliver,LAMF,0.48,1,-0.52
+C. Oliver,"LAMF, RAMF",0.11,0,0.11
+C. Oliver,RAMF,0.87,1,-0.13
+C. Oliver,"RAMF, RW",0.11,0,0.11
+C. Peretti,RAMF,0.47,1,-0.53
+C. Steinleitner,DMF,0.0,0,0.0
+C. Steinleitner,"LCB, RDMF",0.31,1,-0.69
+C. Steinleitner,"LCMF, LDMF",0.34,0,0.34
+C. Steinleitner,"LDMF, RDMF",0.0,0,0.0
+C. Thaggard,CF,2.92,1,1.92
+C. Thaggard,"LW, CF",0.09,0,0.09
+C. Thaggard,RAMF,0.06,0,0.06
+C. Thaggard,RWF,0.17,0,0.17
+C. Wilkerson,"AMF, LDMF",0.36,1,-0.64
+C. Wilkerson,"CF, LAMF, LCMF3, LW, RCMF3",0.32,0,0.32
+C. Wilkerson,"LAMF, LDMF",0.27,0,0.27
+C. Wilkerson,LCMF,0.19,0,0.19
+C. Wilkerson,"LCMF, LDMF",0.02,0,0.02
+C. Wilkerson,"LCMF, LW, RCMF, RW",0.7,1,-0.30000000000000004
+C. Wilkerson,"LCMF3, RCMF3",0.09,0,0.09
+C. Wilkerson,"LDMF, RCMF",0.19,1,-0.81
+C. Wilkerson,RAMF,0.02,0,0.02
+C. Wilkerson,RCMF,0.11,0,0.11
+D. Ajagbe,CF,5.2,1,4.2
+D. Ajagbe,RWF,0.74,1,-0.26
+D. Boltz,CF,5.97,1,4.97
+D. Boltz,"CF, RW",0.4,0,0.4
+D. Carlson,"LCMF, RCMF",0.02,0,0.02
+D. Carlson,"LDMF, RDMF",0.04,0,0.04
+D. Carlson,"RCMF3, RW",0.17,0,0.17
+D. Herrera,"AMF, LCMF",0.44,0,0.44
+D. Herrera,CF,0.11,0,0.11
+D. Herrera,"CF, LCMF3",0.08,0,0.08
+D. Herrera,"CF, LW",0.12,0,0.12
+D. Herrera,"CF, RCMF3",0.03,0,0.03
+D. Herrera,"DMF, RCMF3, CF",0.66,0,0.66
+D. Herrera,"LCMF, RW",0.29,0,0.29
+D. Herrera,"LW, RCMF",0.06,0,0.06
+D. Herrera,"LWF, RAMF",0.1,0,0.1
+D. Herrera,"RAMF, RW",0.14,0,0.14
+D. Herrera,"RCMF3, CF",0.33,0,0.33
+D. Tran,"DMF, CF",0.08,0,0.08
+D. Tran,"LCMF, RCMF",0.13,1,-0.87
+D. Tran,LCMF3,0.32,0,0.32
+D. Wrona,CF,7.15,1,6.15
+D. Wrona,"CF, RAMF",0.43,0,0.43
+D. Wrona,"CF, RW",0.33,1,-0.6699999999999999
+D. Wrona,"CF, RWF",0.13,0,0.13
+D. Wrona,LAMF,0.52,0,0.52
+D. Wrona,"LAMF, RAMF",0.49,0,0.49
+D. Wrona,RAMF,0.47,1,-0.53
+E. Caceres,AMF,0.16,1,-0.84
+E. Caceres,"AMF, DMF",0.02,0,0.02
+E. Caceres,"AMF, LCMF, LCMF3",0.28,0,0.28
+E. Caceres,"AMF, LDMF",0.19,0,0.19
+E. Caceres,"AMF, RDMF",0.18,0,0.18
+E. Caceres,"DMF, LAMF, LCMF, LCMF3",0.32,1,-0.6799999999999999
+E. Caceres,"DMF, LCMF3",0.01,0,0.01
+E. Caceres,"DMF, RCMF",0.27,0,0.27
+E. Caceres,"LB, LCMF, RCMF, RW",0.04,0,0.04
+E. Caceres,LCMF,1.72,1,0.72
+E. Caceres,"LCMF, LCMF3",0.04,0,0.04
+E. Caceres,"LCMF, LDMF",0.01,0,0.01
+E. Caceres,"LCMF, LW",0.34,0,0.34
+E. Caceres,"LCMF, RCMF",1.75,1,0.75
+E. Caceres,"LCMF, RCMF3",0.28,1,-0.72
+E. Caceres,LCMF3,1.38,1,0.3799999999999999
+E. Caceres,"LCMF3, RCMF",0.27,1,-0.73
+E. Caceres,LDMF,0.0,0,0.0
+E. Caceres,"LDMF, RDMF",0.02,0,0.02
+E. Caceres,RCMF,0.03,0,0.03
+E. Caceres,RCMF3,0.76,1,-0.24
+E. Emovon,CF,1.7,1,0.7
+E. Jones,RCMF,0.01,0,0.01
+E. Jones,RDMF,0.07,0,0.07
+E. Ruiz,RDMF,0.02,0,0.02
+F. Bell,"DMF, LCMF, RAMF, RCMF",0.0,0,0.0
+F. Bell,"DMF, RDMF",0.35,0,0.35
+F. Bell,LCMF,0.11,0,0.11
+F. Bell,"LCMF, RCMF",0.15,0,0.15
+F. Di Ponzio,AMF,0.0,0,0.0
+F. Di Ponzio,"CF, RWB",0.33,0,0.33
+F. Di Ponzio,"LAMF, RAMF",0.66,1,-0.33999999999999997
+F. Di Ponzio,"LAMF, RW",0.0,0,0.0
+G. Elmquist,CF,3.22,1,2.22
+I. Abbey,"AMF, LAMF",0.51,1,-0.49
+I. Abbey,CF,0.6,0,0.6
+I. Abbey,"CF, LAMF, LWF",0.09,0,0.09
+I. Abbey,"CF, LW",1.17,1,0.16999999999999993
+I. Abbey,"CF, RWF",0.04,1,-0.96
+I. Abbey,LAMF,0.99,0,0.99
+I. Abbey,"LAMF, LW",0.09,0,0.09
+I. Abbey,"LAMF, RAMF",0.76,0,0.76
+I. Abbey,"LAMF, RW",0.13,0,0.13
+I. Abbey,"LAMF, RWF",0.17,1,-0.83
+I. Abbey,"LB, LW, RAMF",0.01,0,0.01
+I. Abbey,"LW, CF",0.05,0,0.05
+I. Abbey,"LW, RAMF",0.69,1,-0.31000000000000005
+I. Abbey,"LWB, RAMF",0.5,0,0.5
+I. Abbey,LWF,0.75,1,-0.25
+I. Abbey,RAMF,0.86,1,-0.14
+I. Addimandi,CF,0.25,0,0.25
+I. Addimandi,"CF, RW",0.48,0,0.48
+I. Addimandi,"LW, LWF",0.06,0,0.06
+I. Addimandi,"LWF, RWF",0.04,1,-0.96
+I. Obeid,RAMF,0.03,0,0.03
+I. Tyrkus,"AMF, CF",0.08,0,0.08
+I. Tyrkus,CF,0.0999999999999999,0,0.0999999999999999
+J. Bucknor,CF,0.84,1,-0.16000000000000003
+J. Bucknor,"DMF, RB5, RCMF3",0.05,1,-0.95
+J. Bucknor,"RAMF, RW",0.52,1,-0.48
+J. Bucknor,"RB5, RWF",0.73,1,-0.27
+J. Bucknor,"RW, RWF",0.1,0,0.1
+J. Contell,"AMF, RW, CF",0.32,1,-0.6799999999999999
+J. Contell,CF,6.21,1,5.21
+J. Contell,"CF, LW",0.2,1,-0.8
+J. Contell,"CF, LW, RAMF, RWF",0.33,0,0.33
+J. Contell,"CF, LW, RWF",0.14,0,0.14
+J. Contell,"CF, LWF",0.14,0,0.14
+J. Contell,"CF, RAMF",1.91,1,0.9099999999999999
+J. Contell,"CF, RW",0.8099999999999999,0,0.8099999999999999
+J. Contell,"CF, RWF",1.4,1,0.3999999999999999
+J. Contell,"LAMF, LW",0.11,0,0.11
+J. Contell,"LWF, RWF",0.2,0,0.2
+J. Contell,RAMF,0.18,0,0.18
+J. Contell,"RAMF, RB, CF",0.04,0,0.04
+J. Contell,"RAMF, RW",0.83,0,0.83
+J. Contell,"RW, CF",0.4499999999999999,1,-0.55
+J. Contell,"RW, RWF",1.07,0,1.07
+J. Contell,RWF,0.5,0,0.5
+J. Dale,LAMF,0.2,1,-0.8
+J. Dale,"LW, RAMF",0.33,0,0.33
+J. Dale,"LW, RAMF, RW",0.03,0,0.03
+J. Dale,RAMF,0.28,0,0.28
+J. Diaz,CF,0.05,0,0.05
+J. Diaz,"LAMF, RAMF",0.03,1,-0.97
+J. Diaz,LWF,0.08,0,0.08
+J. Gajadhar,AMF,0.7,1,-0.30000000000000004
+J. Gajadhar,"AMF, CF",0.35,0,0.35
+J. Gajadhar,"AMF, LAMF",0.45,1,-0.55
+J. Gajadhar,"AMF, LCMF",0.29,0,0.29
+J. Gajadhar,"AMF, LCMF3",0.14,1,-0.86
+J. Gajadhar,"AMF, LDMF",0.14,0,0.14
+J. Gajadhar,"AMF, RW",0.57,1,-0.43000000000000005
+J. Gajadhar,"LCMF, LW",0.36,1,-0.64
+J. Gajadhar,RCMF,0.2299999999999999,0,0.2299999999999999
+J. Guggemos,AMF,0.88,1,-0.12
+J. Guggemos,"AMF, CF",0.11,0,0.11
+J. Guggemos,CF,0.04,0,0.04
+J. Guggemos,"CF, RAMF",0.44,0,0.44
+J. Guggemos,"RW, CF",0.07,0,0.07
+J. Guggemos,RWF,0.0,0,0.0
+J. Kuhr,DMF,0.06,0,0.06
+J. Maguire,CF,0.0,0,0.0
+J. Maguire(1),CF,0.0,0,0.0
+J. Michel,CF,0.15,0,0.15
+J. Michel,LAMF,0.08,0,0.08
+J. Ramos,"AMF, CF",0.01,0,0.01
+J. Ramos,LCMF,0.28,0,0.28
+J. Ramos,"LCMF, LCMF3, RCMF",0.06,0,0.06
+J. Ramos,"LCMF, LW",0.18,1,-0.8200000000000001
+J. Ramos,LCMF3,0.04,0,0.04
+J. Ramos,RCMF,0.0,0,0.0
+J. Ramos,RWF,0.07,0,0.07
+J. Spadafora(1),"AMF, CF",0.56,0,0.56
+J. Spadafora(1),CF,5.140000000000001,1,4.140000000000001
+J. Spadafora(1),"CF, LW",0.14,0,0.14
+J. Spadafora(1),"CF, LWF",0.23,0,0.23
+J. Spadafora(1),"CF, RAMF",0.28,0,0.28
+J. Spadafora(1),"CF, RW",0.24,0,0.24
+J. Stout,"AMF, CF, LW",0.59,1,-0.41000000000000003
+J. Stout,"AMF, LAMF, RAMF",0.17,0,0.17
+J. Stout,CF,0.22,0,0.22
+J. Stout,"CF, LW",0.93,1,-0.06999999999999995
+J. Stout,LAMF,3.63,1,2.63
+J. Stout,"LAMF, LW",1.51,1,0.51
+J. Stout,"LAMF, RAMF",0.5700000000000001,0,0.5700000000000001
+J. Stout,"LW, CF",0.2299999999999999,0,0.2299999999999999
+J. Stout,LWF,0.31,0,0.31
+J. Suchecki,AMF,0.4,0,0.4
+J. Suchecki,"AMF, LDMF",0.28,0,0.28
+J. Suchecki,"AMF, RCMF",0.02,0,0.02
+J. Suchecki,"AMF, RDMF",0.04,1,-0.96
+J. Suchecki,DMF,0.98,0,0.98
+J. Suchecki,"DMF, LCMF, LDMF",0.01,0,0.01
+J. Suchecki,LCMF,0.04,0,0.04
+J. Suchecki,"LCMF, LW, RCMF",0.08,0,0.08
+J. Suchecki,"LCMF, RCMF",0.36,1,-0.64
+J. Suchecki,LDMF,1.82,1,0.8200000000000001
+J. Suchecki,"LDMF, RDMF",0.2,0,0.2
+J. Suchecki,RCMF,0.48,0,0.48
+J. Van Deventer,AMF,0.16,0,0.16
+J. Van Deventer,"AMF, RAMF",0.13,1,-0.87
+J. Van Deventer,CF,0.01,0,0.01
+J. Van Deventer,"CF, LW",0.15,0,0.15
+J. Van Deventer,DMF,0.0,0,0.0
+J. Van Deventer,"LW, RCMF",0.11,0,0.11
+J. Van Deventer,RAMF,0.51,1,-0.49
+J. Wagoner,LCMF,0.36,0,0.36
+J. Wagoner,"LCMF, LDMF",0.04,0,0.04
+J. Wagoner,"LCMF, RCMF",0.22,0,0.22
+J. Wagoner,RCMF,0.3,0,0.3
+J. Wagoner,RDMF,0.4,0,0.4
+J. Weiss,"AMF, CF",0.23,0,0.23
+J. Weiss,CF,16.23,1,15.23
+J. Weiss,"CF, LAMF",0.31,1,-0.69
+J. Weiss,"CF, LW",0.19,0,0.19
+J. Weiss,"CF, LWF",0.39,0,0.39
+J. Weiss,"CF, RAMF",0.43,0,0.43
+J. Weiss,LAMF,2.34,1,1.3399999999999999
+J. Weiss,"LAMF, LW",0.02,0,0.02
+J. Weiss,"LAMF, RAMF",1.41,0,1.41
+J. Weiss,"LWB, RWF, CF",0.76,0,0.76
+J. Weiss,LWF,0.65,0,0.65
+J. Weiss,"RW, CF",0.14,0,0.14
+J. Weiss,RWF,0.58,0,0.58
+J. Zalinsky,"RAMF, RB",0.0,0,0.0
+K. Andrews,CF,0.98,1,-0.020000000000000018
+K. Andrews,"CF, LW",0.31,0,0.31
+K. Andrews,"DMF, LCMF",0.0,0,0.0
+K. Andrews,LAMF,0.65,0,0.65
+K. Andrews,"LAMF, LW",0.73,0,0.73
+K. Andrews,"LW, RCMF",0.02,0,0.02
+K. Arnarsson,LCMF,0.29,0,0.29
+K. Brame,"LCMF, RCMF",0.13,0,0.13
+K. Brame,RCMF,0.24,0,0.24
+K. Brame,"RCMF, RWB",0.04,0,0.04
+K. Dadzie,AMF,0.2,0,0.2
+K. Dadzie,"AMF, CF",0.78,1,-0.21999999999999997
+K. Dadzie,"AMF, LAMF",0.95,0,0.95
+K. Dadzie,"AMF, LW",0.76,1,-0.24
+K. Dadzie,CF,7.05,1,6.05
+K. Dadzie,"CF, LAMF",0.11,0,0.11
+K. Dadzie,"CF, LW",0.39,0,0.39
+K. Dadzie,LAMF,1.63,1,0.6299999999999999
+K. Dadzie,"LAMF, CF",0.8,1,-0.19999999999999996
+K. Dadzie,RAMF,0.49,1,-0.51
+K. Dadzie,"RAMF, CF",0.16,0,0.16
+K. Quist-Therson,"AMF, RAMF",0.4,0,0.4
+K. Quist-Therson,DMF,0.0,0,0.0
+K. Quist-Therson,RAMF,0.02,0,0.02
+K. Quist-Therson,RCMF,0.23,0,0.23
+K. Quist-Therson,RDMF,0.66,0,0.66
+K. Schueneman,CF,0.08,0,0.08
+K. Schueneman,"RAMF, RDMF",0.01,0,0.01
+L. Aviles,"RCMF, RW",0.03,0,0.03
+L. Aviles,RWF,0.0,0,0.0
+L. Bezerra,"AMF, CF, LAMF",0.27,1,-0.73
+L. Bezerra,CF,1.79,0,1.79
+L. Bezerra,"CF, RW",0.02,0,0.02
+L. Costabile,"LAMF, LB",0.04,0,0.04
+L. Gerhardt,AMF,0.12,0,0.12
+L. Gerhardt,"AMF, DMF",0.31,0,0.31
+L. Gerhardt,"DMF, RCMF",0.09,1,-0.91
+L. Gerhardt,"LB, LCMF, RW",0.02,0,0.02
+L. Gerhardt,LCMF,0.01,0,0.01
+L. Gerhardt,"LCMF, RCMF",0.09,1,-0.91
+L. Gerhardt,LCMF3,0.02,0,0.02
+L. Gerhardt,"LCMF3, RCMF, RCMF3",0.26,1,-0.74
+L. Gerhardt,LDMF,0.14,0,0.14
+L. Gerhardt,"LDMF, RCMF",0.0,0,0.0
+L. Gerhardt,"LDMF, RCMF, RDMF",0.2,0,0.2
+L. Gerhardt,"LDMF, RDMF",0.31,0,0.31
+L. Gerhardt,RCMF,0.1,0,0.1
+L. Gerhardt,RDMF,1.51,0,1.51
+L. Jeffus,"DMF, LCMF3, RCMF3",0.01,0,0.01
+L. Jeffus,"LAMF, RAMF",0.11,1,-0.89
+L. Jeffus,"LB, RCB, RCMF",0.05,0,0.05
+L. Jeffus,"LCMF3, RCMF3",0.33,0,0.33
+L. Jeffus,LDMF,0.01,0,0.01
+L. Jeffus,RAMF,0.54,0,0.54
+L. Jeffus,"RAMF, RCB3",0.01,0,0.01
+L. Jeffus,"RAMF, RDMF",0.32,0,0.32
+L. Jeffus,"RB, RDMF",0.31,0,0.31
+L. Jeffus,"RCB, RCMF3",0.01,0,0.01
+L. Jeffus,RCMF3,1.16,1,0.15999999999999992
+L. Koehl,AMF,0.0,0,0.0
+L. Koehl,"AMF, LAMF",0.0,0,0.0
+L. Koehl,"AMF, LDMF",0.94,1,-0.06000000000000005
+L. Koehl,LCMF,2.24,1,1.2400000000000002
+L. Koehl,"LCMF, LDMF",0.91,1,-0.08999999999999997
+L. Koehl,"LCMF, LW",0.76,1,-0.24
+L. Koehl,LDMF,1.3,1,0.30000000000000004
+L. Koehl,RCMF,0.02,0,0.02
+L. Pechota,AMF,0.36,0,0.36
+L. Pechota,"AMF, LCMF, RAMF",0.33,0,0.33
+L. Pechota,"CF, LW",0.2,1,-0.8
+L. Pechota,"LAMF, LW",0.01,0,0.01
+L. Pechota,"LAMF, RAMF",0.35,0,0.35
+L. Pechota,"LAMF, RAMF, RW",0.16,0,0.16
+L. Pechota,LCMF,0.01,0,0.01
+L. Pechota,"LCMF, LCMF3, LW",0.68,1,-0.31999999999999995
+L. Pechota,"LCMF, LW",0.03,0,0.03
+L. Pechota,"LCMF, RCMF",1.21,1,0.20999999999999996
+L. Pechota,"LCMF, RCMF, RW",0.07,0,0.07
+L. Pechota,"LW, CF",0.01,0,0.01
+L. Pechota,"LW, RCMF",0.0,0,0.0
+L. Pechota,"RAMF, RW",0.05,0,0.05
+L. Pechota,"RCMF, RW",0.1,0,0.1
+L. Shreiner,"CF, RW",0.27,0,0.27
+L. Van Heukelum,CF,7.2,1,6.2
+M. Adedokun,"AMF, RCMF",0.1,0,0.1
+M. Adedokun,CF,2.91,1,1.9100000000000001
+M. Adedokun,"CF, LAMF",0.15,1,-0.85
+M. Adedokun,"CF, LCMF",0.4,0,0.4
+M. Adedokun,"CF, LCMF, RCMF",0.31,1,-0.69
+M. Adedokun,"CF, LW",0.34,1,-0.6599999999999999
+M. Adedokun,"CF, LW, RW",0.41,0,0.41
+M. Adedokun,"CF, LWF",0.4599999999999999,0,0.4599999999999999
+M. Adedokun,"LAMF, LW",0.43,0,0.43
+M. Adedokun,"LCMF, LW, RCMF",0.0,0,0.0
+M. Adedokun,"LCMF, RCMF",2.47,0,2.47
+M. Adedokun,LCMF3,0.15,0,0.15
+M. Adedokun,LDMF,0.1,0,0.1
+M. Adedokun,"LDMF, RDMF",0.01,0,0.01
+M. Adedokun,"LW, CF",0.98,1,-0.020000000000000018
+M. Adedokun,"LW, RW, CF",0.62,1,-0.38
+M. Adedokun,"LWF, RCMF, RCMF3",1.03,1,0.030000000000000027
+M. Adedokun,RCMF,0.36,0,0.36
+M. Adedokun,RCMF3,0.97,1,-0.030000000000000027
+M. Adedokun,RDMF,0.04,0,0.04
+M. Borkovic,"AMF, CF",0.15,0,0.15
+M. Borkovic,CF,11.19,1,10.19
+M. Borkovic,"CF, LW",0.38,0,0.38
+M. Borkovic,"CF, RW",1.03,1,0.030000000000000027
+M. Borkovic,"LW, RW, CF",0.43,0,0.43
+M. Borkovic,"RW, CF",0.09,0,0.09
+M. Daouda,"LCMF, RCMF",0.06,0,0.06
+M. Daouda,RCMF,0.58,1,-0.42000000000000004
+M. De Jesus,AMF,0.22,0,0.22
+M. De Jesus,"CF, RCMF",0.85,1,-0.15000000000000002
+M. De Jesus,LAMF,0.11,0,0.11
+M. De Jesus,"LAMF, RB",0.03,0,0.03
+M. De Jesus,"LCMF, RCMF",0.14,0,0.14
+M. De Jesus,RCMF,0.11,0,0.11
+M. Diop,CF,0.77,1,-0.22999999999999998
+M. Hewes,AMF,0.4599999999999999,1,-0.54
+M. Hewes,"AMF, LCMF",0.11,0,0.11
+M. Hewes,CF,6.78,1,5.78
+M. Hewes,"CF, LW",0.0,0,0.0
+M. Hewes,"CF, RW",0.07,0,0.07
+M. Hewes,"LCMF3, LW",0.24,0,0.24
+M. Hewes,"LW, CF",0.01,0,0.01
+M. Hewes,"LW, RW, CF",0.27,1,-0.73
+M. Hewes,RCMF,0.05,0,0.05
+M. Hewes,"RW, CF",0.37,0,0.37
+M. Hrvojevic,"AMF, RW",0.26,0,0.26
+M. Hrvojevic,CF,0.99,0,0.99
+M. Hrvojevic,"CF, LCMF, RW",0.12,0,0.12
+M. Hrvojevic,"CF, RWF",0.25,0,0.25
+M. Hrvojevic,LAMF,0.18,0,0.18
+M. Hrvojevic,"LAMF, RAMF",0.29,0,0.29
+M. Hrvojevic,"LW, RW, CF",0.16,0,0.16
+M. Hrvojevic,"RAMF, CF",0.09,0,0.09
+M. Lejbowicz,CF,0.04,0,0.04
+M. Leon,CF,0.44,0,0.44
+M. Leon,"CF, RAMF",0.04,0,0.04
+M. Leon,"CF, RW",0.9400000000000002,0,0.9400000000000002
+M. Leon,"CF, RWF",0.01,0,0.01
+M. Leon,"RCMF, RW",0.37,0,0.37
+M. Leon,"RCMF3, CF",1.23,0,1.23
+M. Lynch,"CF, LB",0.1,0,0.1
+M. Lynch,LDMF,0.09,0,0.09
+M. Lynch,RAMF,0.5599999999999999,0,0.5599999999999999
+M. Marshall,RWF,0.55,1,-0.44999999999999996
+M. Nesci,CF,0.77,1,-0.22999999999999998
+M. Nesci,"CF, RWF",0.22,0,0.22
+M. Parker,DMF,0.0,0,0.0
+M. Ramirez,CF,0.1,0,0.1
+M. Ramirez,"RCMF3, RWF",0.09,0,0.09
+M. Riley,AMF,2.01,1,1.0099999999999998
+M. Riley,"AMF, CF",1.41,0,1.41
+M. Riley,"AMF, CF, RW",0.42,0,0.42
+M. Riley,"AMF, RAMF",0.96,0,0.96
+M. Riley,CF,1.81,1,0.81
+M. Riley,"RCMF, RW",0.31,0,0.31
+M. Rogers,AMF,0.64,0,0.64
+M. Rogers,"AMF, CF",0.22,1,-0.78
+M. Rogers,"AMF, CF, LAMF",0.01,0,0.01
+M. Rogers,"AMF, LAMF",0.3,0,0.3
+M. Rogers,"AMF, LAMF, LB, RAMF",0.1,0,0.1
+M. Rogers,"AMF, LAMF, RAMF",0.02,0,0.02
+M. Rogers,"AMF, LW",0.1,1,-0.9
+M. Rogers,"AMF, LW, RCMF",0.14,0,0.14
+M. Rogers,"AMF, RAMF",0.07,0,0.07
+M. Rogers,CF,1.42,0,1.42
+M. Rogers,"CF, LAMF, RAMF",0.22,0,0.22
+M. Rogers,"CF, LCMF, RW",0.15,1,-0.85
+M. Rogers,"CF, LW",0.42,1,-0.5800000000000001
+M. Rogers,"CF, LW, RCMF3",0.34,1,-0.6599999999999999
+M. Rogers,"CF, LW, RW",0.37,1,-0.63
+M. Rogers,"CF, LWB, RCMF, RW",1.32,1,0.32000000000000006
+M. Rogers,"CF, RAMF, RCMF",0.12,0,0.12
+M. Rogers,"CF, RW",0.14,0,0.14
+M. Rogers,LAMF,0.44,0,0.44
+M. Rogers,"LAMF, LCMF3",0.33,1,-0.6699999999999999
+M. Rogers,"LAMF, LDMF",0.07,0,0.07
+M. Rogers,"LAMF, RAMF",0.07,0,0.07
+M. Rogers,"LAMF, RW",0.13,0,0.13
+M. Rogers,LCMF,0.78,0,0.78
+M. Rogers,"LCMF, LW",0.09,0,0.09
+M. Rogers,"LCMF, RCMF, RW",0.01,0,0.01
+M. Rogers,"LW, RCMF, RDMF, RW",0.07,0,0.07
+M. Rogers,"LW, RW, CF",0.29,0,0.29
+M. Rogers,RAMF,0.1,0,0.1
+M. Rogers,"RW, CF",0.25,0,0.25
+M. Saad,CF,2.78,1,1.7799999999999998
+M. Saad,LAMF,0.1,0,0.1
+M. Zachemski,AMF,0.8999999999999999,1,-0.10000000000000009
+M. Zachemski,"AMF, LDMF",0.15,1,-0.85
+M. Zachemski,"DMF, RCMF",0.16,0,0.16
+M. Zachemski,"LCMF, RCMF",0.0,0,0.0
+M. Zachemski,RCMF,0.76,1,-0.24
+N. Cabrera,AMF,0.01,0,0.01
+N. Cabrera,"AMF, LDMF",0.74,0,0.74
+N. Cabrera,"AMF, LDMF, RCMF",0.13,0,0.13
+N. Cabrera,"DMF, LCMF, RCMF",0.0,0,0.0
+N. Cabrera,"LAMF, LCMF",0.01,0,0.01
+N. Cabrera,"LB, LCMF",0.02,0,0.02
+N. Cabrera,"LCMF, CF",0.14,0,0.14
+N. Cabrera,"LCMF, RCMF",0.18,1,-0.8200000000000001
+N. Cabrera,LCMF3,0.13,0,0.13
+N. Cabrera,LDMF,0.17,1,-0.83
+N. Cabrera,"LDMF, RCMF",0.03,0,0.03
+N. Cabrera,RCMF,0.09,0,0.09
+N. Cassiday,CF,0.19,0,0.19
+N. Cassiday,"LAMF, RWF",0.08,0,0.08
+N. Cassiday,"LCMF3, RCMF3",0.04,0,0.04
+N. Cassiday,"LWF, RWB",0.22,0,0.22
+N. Cassiday,"RAMF, RW",0.04,0,0.04
+N. Cassiday,"RW, CF",0.5,0,0.5
+N. Cassiday,RWF,0.02,0,0.02
+N. Cavallo,"LAMF, LB, RB",0.17,0,0.17
+N. Cavallo,"LB, LW, RCMF",0.16,1,-0.84
+N. Glorioso,DMF,0.23,0,0.23
+N. Glorioso,RAMF,0.37,0,0.37
+N. Glorioso,"RAMF, RB, RW",0.01,0,0.01
+N. Glorioso,RWF,0.01,0,0.01
+N. Joseph,CF,0.48,0,0.48
+N. McHenry,"AMF, RCB",0.18,0,0.18
+N. McHenry,"LCMF, RCMF",0.18,0,0.18
+N. McHenry,RCMF,0.0,0,0.0
+N. O'Brien,CF,3.43,1,2.43
+N. Rosamilia,"AMF, CF",0.2,0,0.2
+N. Rosamilia,"AMF, LAMF",0.52,1,-0.48
+N. Rosamilia,CF,2.17,1,1.17
+N. Rosamilia,"CF, LCMF3",0.76,0,0.76
+N. Rosamilia,"CF, LW",0.53,0,0.53
+N. Rosamilia,"CF, LW, RW",0.18,0,0.18
+N. Rosamilia,"CF, RAMF",0.26,0,0.26
+N. Rosamilia,"CF, RW",0.12,0,0.12
+N. Rosamilia,"LAMF, LCMF3, LWF, RAMF",0.02,0,0.02
+N. Rosamilia,LDMF,0.07,0,0.07
+N. Rosamilia,"LWF, RWF",0.43,0,0.43
+N. Rosamilia,RAMF,0.06,0,0.06
+N. Rosamilia,"RAMF, CF",0.05,0,0.05
+N. Røjel,CF,16.17,1,15.170000000000002
+N. Røjel,"CF, LWF",0.25,0,0.25
+N. Røjel,"CF, RWF",0.44,1,-0.56
+N. Skubis,"CF, LCMF, RW",0.07,0,0.07
+N. Skubis,"CF, LW",0.49,1,-0.51
+N. Skubis,LWF,0.04,0,0.04
+N. Skubis,"RW, CF",0.05,0,0.05
+O. Foster,"AMF, CF",0.1,0,0.1
+O. Foster,CF,2.8,1,1.7999999999999998
+O. Maeland,AMF,0.65,1,-0.35
+O. Maeland,"AMF, CF",0.17,0,0.17
+O. Maeland,"AMF, CF, RWB",0.15,0,0.15
+O. Maeland,"AMF, LW",0.03,0,0.03
+O. Maeland,CF,5.37,1,4.37
+O. Maeland,"CF, LW",0.1,0,0.1
+O. Maeland,"CF, RAMF",0.3,0,0.3
+O. Maeland,"CF, RW",0.51,1,-0.49
+O. Maeland,"CF, RWF",0.65,0,0.65
+O. Maeland,LAMF,0.41,1,-0.5900000000000001
+O. Maeland,"LAMF, LW, RAMF",0.13,1,-0.87
+O. Maeland,"LAMF, RAMF",0.14,1,-0.86
+O. Maeland,"LCMF3, RW",0.06,0,0.06
+O. Maeland,"LW, CF",0.05,0,0.05
+O. Maeland,LWF,0.2299999999999999,0,0.2299999999999999
+O. Maeland,"LWF, RWF",0.92,1,-0.07999999999999996
+O. Maeland,RAMF,0.26,1,-0.74
+O. Maeland,"RAMF, RW",0.16,0,0.16
+O. Maeland,RWF,0.16,0,0.16
+O. Martin,CF,0.62,1,-0.38
+O. Martin,"CF, RCMF3",0.07,0,0.07
+O. Martin,RCMF3,0.56,0,0.56
+O. Martin,RWF,0.21,1,-0.79
+P. Greenlee,"LAMF, RAMF",0.28,1,-0.72
+P. Grinstead,"AMF, LAMF",0.32,0,0.32
+P. Grinstead,"AMF, LCMF, RDMF",0.06,0,0.06
+P. Grinstead,CF,1.37,1,0.3700000000000001
+P. Grinstead,LAMF,1.44,1,0.43999999999999995
+P. Grinstead,"LAMF, LW",0.62,0,0.62
+P. Grinstead,"LAMF, LW, RB",0.37,1,-0.63
+P. Grinstead,"LAMF, RAMF",0.1,0,0.1
+P. Grinstead,"LB5, LWB, RCMF",0.04,0,0.04
+P. Grinstead,"LCMF, RCMF",0.15,0,0.15
+P. Grinstead,"LW, RAMF",0.07,0,0.07
+P. Grinstead,"LW, RCMF, RW",0.11,1,-0.89
+P. Grinstead,"LW, RCMF3, RW",0.37,0,0.37
+P. Grinstead,RAMF,0.52,0,0.52
+P. Grinstead,"RAMF, CF",0.18,0,0.18
+P. Grinstead,"RCMF3, RW",0.11,1,-0.89
+P. Kingston,"AMF, CF",0.12,0,0.12
+P. Kingston,"AMF, CF, RAMF",1.21,0,1.21
+P. Kingston,"AMF, DMF, LAMF, LCMF3",0.45,0,0.45
+P. Kingston,"AMF, LCMF, RCMF",0.08,0,0.08
+P. Kingston,"AMF, LCMF, RCMF, RW",0.32,0,0.32
+P. Kingston,"AMF, LDMF, RDMF",0.78,0,0.78
+P. Kingston,"AMF, RW",0.05,0,0.05
+P. Kingston,CF,0.93,1,-0.06999999999999995
+P. Kingston,"LB5, LCMF",0.04,0,0.04
+P. Kingston,LCMF,0.12,0,0.12
+P. Kingston,"LCMF, LW, RCMF",0.09,0,0.09
+P. Kingston,"LCMF, RB",0.01,0,0.01
+P. Kingston,"LCMF, RB, RWB",0.03,0,0.03
+P. Kingston,"LCMF, RCMF",0.05,0,0.05
+P. Kingston,"LCMF, RCMF, RWB",0.03,0,0.03
+P. Kingston,"LCMF, RW",0.06,0,0.06
+P. Kingston,"LCMF3, LWB, RCMF",0.08,0,0.08
+P. Kingston,LDMF,0.04,0,0.04
+P. Kingston,"LDMF, RCMF",0.15,0,0.15
+P. Kingston,"LDMF, RDMF",0.11,1,-0.89
+P. Kingston,"LW, RW, CF",0.0,0,0.0
+P. Kingston,"LW, RW, RWB, CF",0.01,0,0.01
+P. Kingston,RAMF,0.77,1,-0.22999999999999998
+P. Kingston,RCMF,1.18,1,0.17999999999999994
+P. Kingston,"RW, CF",0.82,1,-0.18000000000000005
+P. Lurot,"CB, DMF, RCMF3",0.02,0,0.02
+P. McDonald,"AMF, LDMF",0.02,0,0.02
+P. McDonald,DMF,0.38,0,0.38
+P. McDonald,"DMF, LCMF",0.01,0,0.01
+P. McDonald,"DMF, LCMF, LW",0.09,0,0.09
+P. McDonald,LCMF,2.96,1,1.96
+P. McDonald,"LCMF, LDMF",0.21,0,0.21
+P. McDonald,"LCMF, RCMF",0.58,0,0.58
+P. McDonald,"LCMF, RDMF",0.14,0,0.14
+P. McDonald,LDMF,0.24,1,-0.76
+P. McDonald,"LDMF, RCMF",0.0,0,0.0
+P. McDonald,RCMF,0.02,0,0.02
+P. Naef,CF,0.77,1,-0.22999999999999998
+P. Naef,"CF, RAMF, RDMF",0.01,0,0.01
+P. Naef,RAMF,0.27,0,0.27
+P. Naef,"RCMF3, RW",0.04,0,0.04
+P. Naef,RWF,0.14,0,0.14
+P. O'Toole,"RAMF, RW",0.18,1,-0.8200000000000001
+P. Reisz,"AMF, LDMF",0.26,0,0.26
+P. Reisz,CF,1.04,1,0.040000000000000036
+P. Reisz,LCMF,0.09,0,0.09
+P. Reisz,LCMF3,0.08,0,0.08
+P. Reisz,LDMF,0.13,0,0.13
+P. Reisz,RDMF,0.14,0,0.14
+P. Son,CF,0.62,1,-0.38
+P. Son,"CF, LWF",0.02,0,0.02
+P. Son,LAMF,0.61,0,0.61
+P. Son,"LAMF, RAMF",0.19,0,0.19
+P. Son,"LCMF, LW",0.01,0,0.01
+P. Son,"LCMF3, CF",0.08,0,0.08
+P. Son,"RAMF, RWF",0.02,0,0.02
+P. Son,"RCMF3, RWF",0.0,0,0.0
+Q. Rogers,"AMF, LCMF, RCMF",0.28,0,0.28
+Q. Rogers,DMF,0.43,1,-0.5700000000000001
+Q. Rogers,"DMF, LCB, RCMF",0.02,0,0.02
+Q. Rogers,"DMF, LCMF",0.02,0,0.02
+Q. Rogers,"DMF, LCMF, RCMF",0.15,0,0.15
+Q. Rogers,"DMF, LDMF, RDMF",0.21,0,0.21
+Q. Rogers,"DMF, RB, RCB3, RCMF",0.03,0,0.03
+Q. Rogers,"DMF, RCMF",0.04,0,0.04
+Q. Rogers,LCMF,0.01,0,0.01
+Q. Rogers,"LCMF, RB",0.02,0,0.02
+Q. Rogers,"LCMF, RCMF",1.69,1,0.69
+Q. Rogers,LDMF,0.05,0,0.05
+Q. Rogers,"LDMF, RDMF",0.03,0,0.03
+Q. Rogers,RCMF,0.39,0,0.39
+Q. Rogers,"RCMF, RDMF",0.76,1,-0.24
+R. Aman,AMF,0.27,0,0.27
+R. Aman,"AMF, LAMF",0.99,1,-0.010000000000000009
+R. Aman,"AMF, LW",0.11,0,0.11
+R. Aman,CF,1.65,1,0.6499999999999999
+R. Aman,"CF, RW",0.28,0,0.28
+R. Aman,LAMF,1.03,0,1.03
+R. Aman,"LAMF, LW",0.38,1,-0.62
+R. Aman,"LAMF, LW, CF",1.09,0,1.09
+R. Aman,"LAMF, LW, RAMF",0.06,0,0.06
+R. Aman,"LAMF, RAMF",0.2,0,0.2
+R. Aman,"RAMF, RW",0.11,0,0.11
+R. Burlew,"AMF, LCMF3, CF",0.35,0,0.35
+R. Burlew,"AMF, LDMF, LW, RAMF",0.12,0,0.12
+R. Burlew,"AMF, RCMF, RDMF",0.41,0,0.41
+R. Burlew,"AMF, RWB",0.08,0,0.08
+R. Burlew,"DMF, LB",0.0,0,0.0
+R. Burlew,"DMF, RB, RW",0.43,0,0.43
+R. Burlew,"LB, RDMF",0.15,0,0.15
+R. Burlew,"LCMF, RB, RCMF",0.11,0,0.11
+R. Burlew,"LCMF3, RCMF, RDMF",0.16,0,0.16
+R. Burlew,"LDMF, RDMF",0.56,0,0.56
+R. Burlew,"LWB, RB, RCMF3",0.11,0,0.11
+R. Burlew,"RB, RDMF",0.06,0,0.06
+R. Burlew,RCMF,0.65,1,-0.35
+R. Eisa,CF,0.93,1,-0.06999999999999995
+R. Eisa,"LB, CF",0.54,0,0.54
+R. Gourdie,AMF,0.35,0,0.35
+R. Gourdie,"AMF, LAMF, LDMF",0.04,0,0.04
+R. Gourdie,"AMF, LCMF, LWB, RCMF",0.1,0,0.1
+R. Gourdie,"AMF, LWB",0.04,0,0.04
+R. Gourdie,"AMF, LWB, RWB",0.18,0,0.18
+R. Gourdie,"AMF, RAMF",0.07,0,0.07
+R. Gourdie,"AMF, RWB",0.11,0,0.11
+R. Gourdie,CF,0.15,0,0.15
+R. Gourdie,"LAMF, LCMF3",0.07,1,-0.9299999999999999
+R. Gourdie,"LAMF, LDMF",0.04,0,0.04
+R. Gourdie,"LAMF, RAMF",0.43,1,-0.5700000000000001
+R. Gourdie,"LCMF, LW",0.01,0,0.01
+R. Gourdie,LCMF3,0.0,0,0.0
+R. Gourdie,"LCMF3, LW, RB",0.18,0,0.18
+R. Gourdie,"LCMF3, LWB",0.07,0,0.07
+R. Gourdie,"LCMF3, LWF",0.03,0,0.03
+R. Gourdie,"LCMF3, RB",0.13,0,0.13
+R. Gourdie,LDMF,0.0,0,0.0
+R. Gourdie,"LDMF, RDMF",0.1,0,0.1
+R. Gourdie,"LW, RCMF3",0.09,0,0.09
+R. Gourdie,RCMF,0.15,0,0.15
+R. Gourdie,"RW, CF",0.09,0,0.09
+R. Ludwig,AMF,0.09,0,0.09
+R. Ludwig,"CF, RW",0.42,1,-0.5800000000000001
+R. Ludwig,"LAMF, RAMF",0.23,1,-0.77
+R. Ludwig,"LAMF, RAMF, RW",0.05,0,0.05
+R. Ludwig,RAMF,0.68,0,0.68
+R. Ludwig,"RAMF, RW",0.78,0,0.78
+R. Ludwig,"RW, CF",0.19,0,0.19
+R. Ludwig,"RW, RWF",0.16,0,0.16
+R. Ludwig,RWF,0.32,0,0.32
+R. Mayer,"LCB, LCMF",0.02,0,0.02
+R. Mayer,LCMF,2.16,1,1.1600000000000001
+R. Mayer,"LCMF, RCMF",0.37,0,0.37
+R. Perez,"AMF, LCMF3, RCMF3",0.16,0,0.16
+R. Perez,"AMF, RDMF",0.01,0,0.01
+R. Perez,DMF,0.0,0,0.0
+R. Perez,LCMF,0.06,0,0.06
+R. Perez,"LCMF, RCMF",0.0,0,0.0
+R. Perez,"LCMF3, RCMF3",0.02,0,0.02
+R. Perez,"LCMF3, RCMF3, CF",0.08,0,0.08
+R. Perez,RCMF,0.6900000000000001,0,0.6900000000000001
+R. Perez,"RCMF, RCMF3",0.23,1,-0.77
+R. Perez,RCMF3,0.1,0,0.1
+S. Bettenhausen,DMF,0.01,0,0.01
+S. Bettenhausen,"DMF, LCMF, LCMF3, RCMF",0.07,0,0.07
+S. Bettenhausen,"DMF, LCMF, LDMF",0.02,0,0.02
+S. Bettenhausen,"DMF, LDMF, RCMF",0.03,0,0.03
+S. Bettenhausen,"DMF, RCMF3",0.02,0,0.02
+S. Bettenhausen,LCMF,0.05,0,0.05
+S. Bettenhausen,"LCMF, RCMF",0.02,0,0.02
+S. Bettenhausen,"LCMF, RW",0.21,0,0.21
+S. Bettenhausen,"LCMF3, LDMF, RCMF",0.05,0,0.05
+S. Bettenhausen,"LCMF3, RCMF",0.02,0,0.02
+S. Bettenhausen,RCMF,0.25,0,0.25
+S. Bettenhausen,"RCMF, CF",0.14,0,0.14
+S. Bettenhausen,"RCMF, RW",0.04,1,-0.96
+S. Bettenhausen,RCMF3,0.03,0,0.03
+S. Bettenhausen,RDMF,0.02,0,0.02
+S. Godden,"LAMF, LB",0.09,0,0.09
+S. Godden,"LB, LCMF3",0.0,0,0.0
+S. Hauksson,"AMF, RAMF",0.49,1,-0.51
+S. Hauksson,"CF, LWF, RWF",0.01,0,0.01
+S. Hauksson,LAMF,0.31,0,0.31
+S. Hauksson,"LAMF, LWF",0.0,0,0.0
+S. Hauksson,LCMF3,0.37,1,-0.63
+S. Hauksson,LWF,0.97,1,-0.030000000000000027
+S. Hauksson,"LWF, RWF",0.28,0,0.28
+S. Hauksson,RCMF,0.07,0,0.07
+S. Kerrigan,CF,0.95,1,-0.050000000000000044
+S. Kerrigan,LAMF,0.19,0,0.19
+S. Kerrigan,"LAMF, LW, CF",0.16,0,0.16
+S. Kerrigan,"LAMF, RAMF",0.76,0,0.76
+S. Kerrigan,"LCMF, LW",0.01,0,0.01
+S. Kerrigan,"LW, CF",0.76,1,-0.24
+S. Kerrigan,LWF,0.19,1,-0.81
+S. Kerrigan,"LWF, RWB",0.23,1,-0.77
+S. Kerrigan,"RAMF, CF",0.97,1,-0.030000000000000027
+S. Kerrigan,RWF,0.32,0,0.32
+S. Koza,"LAMF, LB, LB5",0.01,0,0.01
+S. Magnusson,"CF, LCB, RCB",0.29,0,0.29
+S. Masereka,CF,0.6900000000000001,1,-0.30999999999999994
+S. Masereka,"CF, LW, RW",0.56,1,-0.43999999999999995
+S. Masereka,"CF, RAMF",0.08,0,0.08
+S. Masereka,"CF, RCMF, RW",0.23,0,0.23
+S. Masereka,LAMF,0.1,0,0.1
+S. Masereka,"LAMF, RAMF, RW",0.2,0,0.2
+S. Masereka,"LCMF, RCMF, RW",0.01,0,0.01
+S. Masereka,RAMF,0.28,1,-0.72
+S. Masereka,"RAMF, RW",0.0,0,0.0
+S. Masereka,"RW, CF",0.07,0,0.07
+S. Nixon,"RB, RWF",0.17,0,0.17
+S. Nixon,RWF,0.23,0,0.23
+S. Rincón,RAMF,0.55,1,-0.44999999999999996
+S. Sarver,AMF,0.04,0,0.04
+S. Sarver,"AMF, CF",0.64,1,-0.36
+S. Sarver,CF,10.29,1,9.29
+S. Sarver,"CF, LW",1.18,1,0.17999999999999994
+S. Sarver,"CF, RAMF",0.44,0,0.44
+S. Sarver,"CF, RW",0.3,1,-0.7
+S. Sarver,"LW, CF",0.6799999999999999,1,-0.32000000000000006
+S. Sarver,"LW, RW, CF",0.71,0,0.71
+S. Sarver,LWF,0.11,1,-0.89
+S. Sarver,RAMF,0.17,0,0.17
+S. Sarver,"RAMF, CF",0.24,0,0.24
+S. Sarver,"RAMF, RW",0.51,0,0.51
+S. Sarver,RCMF3,0.25,0,0.25
+S. Sarver,"RW, CF",0.52,1,-0.48
+S. Scott,"CF, LAMF",0.25,1,-0.75
+S. Sent,AMF,0.52,1,-0.48
+S. Sent,CF,0.92,1,-0.07999999999999996
+S. Sent,LCMF,0.02,0,0.02
+S. Sent,"LCMF, RCMF",0.22,0,0.22
+S. Sent,"LCMF, RCMF, RDMF",0.0,0,0.0
+S. Sent,LDMF,0.06,0,0.06
+S. Sent,"LDMF, RDMF",0.08,0,0.08
+S. Sent,RCMF,0.06,0,0.06
+S. Soga,AMF,0.03,0,0.03
+S. Soga,"AMF, LDMF",0.25,0,0.25
+S. Soga,"AMF, RDMF",0.0,0,0.0
+S. Soga,CF,0.36,0,0.36
+S. Soga,"DMF, RCMF3",0.76,0,0.76
+S. Soga,LCMF3,0.11,0,0.11
+S. Stewart,"RCMF, RW",0.34,0,0.34
+S. Vainstein,DMF,0.15,0,0.15
+T. Angelone,"RAMF, RWB",0.01,0,0.01
+T. Creech,CF,4.91,1,3.91
+T. Creech,"RWF, CF",1.28,1,0.28
+T. Dewing,CF,20.26,1,19.26
+T. Dewing,"CF, LW",0.01,0,0.01
+T. Dewing,"LAMF, CF",0.53,0,0.53
+T. Dewing,"LCMF3, CF",0.09,0,0.09
+T. Fleming,"AMF, LCMF, RCMF",0.04,0,0.04
+T. Fleming,CF,0.2,0,0.2
+T. Fleming,LCMF,0.0,0,0.0
+T. Fleming,"LCMF, RCMF",0.46,1,-0.54
+T. Fleming,"LCMF, RCMF, RDMF",0.41,0,0.41
+T. Fleming,"LDMF, RCMF",0.0,0,0.0
+T. Fleming,"LDMF, RCMF, RDMF",0.08,0,0.08
+T. Fleming,"LDMF, RDMF",0.11,0,0.11
+T. Fleming,RCMF,1.25,1,0.25
+T. Fleming,RDMF,1.25,1,0.25
+T. Gilej,"AMF, DMF, LDMF",0.03,0,0.03
+T. Gilej,"DMF, LCMF, RCB3",0.19,0,0.19
+T. Gilej,"DMF, LCMF, RCMF",0.1,0,0.1
+T. Gilej,"DMF, RCMF",0.47,0,0.47
+T. Gilej,LCMF,0.46,1,-0.54
+T. Gilej,"LCMF, LW, RCMF",0.02,0,0.02
+T. Gilej,"LCMF, RCMF",1.15,0,1.15
+T. Gilej,LDMF,0.68,0,0.68
+T. Gilej,"LDMF, RCB",0.16,0,0.16
+T. Gilej,"LDMF, RDMF",0.07,0,0.07
+T. Gilej,"RCB, RCMF",0.04,0,0.04
+T. Gilej,RCMF,0.52,1,-0.48
+T. Gilej,"RCMF, RDMF",0.55,0,0.55
+T. Glassberg,"LB, LWF",0.18,0,0.18
+T. Karumanchi,DMF,1.13,0,1.13
+T. Karumanchi,"DMF, LDMF",0.37,0,0.37
+T. Karumanchi,"DMF, RDMF",0.0,0,0.0
+T. Karumanchi,"LB, RDMF",0.04,0,0.04
+T. Karumanchi,"LCMF, RCMF",0.07,0,0.07
+T. Karumanchi,RCMF,0.08,0,0.08
+T. Mihalić,AMF,0.16,0,0.16
+T. Mihalić,"AMF, CF",0.05,1,-0.95
+T. Mihalić,"AMF, LAMF",1.34,1,0.3400000000000001
+T. Mihalić,"AMF, LCMF3",0.29,1,-0.71
+T. Mihalić,"AMF, LW, CF",0.16,0,0.16
+T. Mihalić,"AMF, LW, RW",0.12,0,0.12
+T. Mihalić,CF,4.84,1,3.84
+T. Mihalić,"CF, LAMF",0.18,0,0.18
+T. Mihalić,"CF, LCMF",0.03,0,0.03
+T. Mihalić,"CF, LCMF3",0.09,0,0.09
+T. Mihalić,"CF, LW",1.09,1,0.09000000000000008
+T. Mihalić,"CF, RCMF",0.01,0,0.01
+T. Mihalić,"CF, RW",1.09,1,0.09000000000000008
+T. Mihalić,LAMF,0.14,0,0.14
+T. Mihalić,"LAMF, LCMF3, RAMF",1.47,1,0.47
+T. Mihalić,"LAMF, LW, RW",0.04,0,0.04
+T. Mihalić,"LAMF, LWB, RAMF",1.79,1,0.79
+T. Mihalić,"LAMF, RAMF",0.77,0,0.77
+T. Mihalić,"LAMF, RCMF3",0.23,0,0.23
+T. Mihalić,LCMF,0.03,0,0.03
+T. Mihalić,"LCMF, LW",0.75,0,0.75
+T. Mihalić,LCMF3,0.07,1,-0.9299999999999999
+T. Mihalić,"LW, CF",1.34,1,0.3400000000000001
+T. Mihalić,"LW, RCMF",0.13,0,0.13
+T. Mihalić,"LW, RW, CF",0.69,0,0.69
+T. Mihalić,LWF,0.82,1,-0.18000000000000005
+T. Mihalić,"LWF, RCMF, RW",0.01,0,0.01
+T. Mihalić,RAMF,0.01,0,0.01
+T. Mihalić,"RW, CF",0.08,0,0.08
+T. Mihalić,RWF,0.76,1,-0.24
+T. Raimbault,AMF,0.12,1,-0.88
+T. Raimbault,"AMF, CF",0.05,0,0.05
+T. Raimbault,CF,3.71,1,2.71
+T. Raimbault,"CF, LCMF, LW",0.03,0,0.03
+T. Raimbault,"CF, LW",0.36,0,0.36
+T. Raimbault,"CF, RCMF",0.6000000000000001,0,0.6000000000000001
+T. Raimbault,"CF, RCMF3",0.09,0,0.09
+T. Raimbault,"CF, RW",0.26,0,0.26
+T. Raimbault,"LW, CF",0.07,0,0.07
+T. Raimbault,"RW, CF",0.28,0,0.28
+T. Ratoviz,AMF,0.06,0,0.06
+T. Ratoviz,CF,0.06,0,0.06
+T. Ratoviz,LCMF3,0.09,0,0.09
+T. Ratoviz,RCMF,0.25,1,-0.75
+T. Ratoviz,"RCMF, RCMF3",0.55,1,-0.44999999999999996
+T. Ratoviz,RCMF3,0.1,0,0.1
+T. Villa,"AMF, RAMF",0.27,0,0.27
+T. Villa,LAMF,0.04,0,0.04
+T. Villa,"LCMF, RCMF",0.01,0,0.01
+T. Villa,LDMF,0.06,0,0.06
+T. Villa,RCMF,0.13,0,0.13
+U. Zeitz,AMF,0.4,0,0.4
+U. Zeitz,"AMF, LCMF",0.72,0,0.72
+U. Zeitz,"AMF, LW, RAMF, RCMF",0.49,0,0.49
+U. Zeitz,"AMF, RCMF3",0.14,0,0.14
+U. Zeitz,CF,0.04,0,0.04
+U. Zeitz,LAMF,0.47,1,-0.53
+U. Zeitz,"LAMF, RAMF",0.44,1,-0.56
+U. Zeitz,"LB5, LCB3, RCMF3",0.13,0,0.13
+U. Zeitz,"LCMF, RCMF",0.52,0,0.52
+U. Zeitz,"LCMF3, RAMF, CF",0.3,0,0.3
+V. Danielson,"AMF, CF",0.07,0,0.07
+V. Danielson,CF,5.12,1,4.12
+V. Danielson,"CF, RAMF",0.05,0,0.05
+V. Danielson,LAMF,0.18,0,0.18
+V. Danielson,"LAMF, RAMF",0.05,0,0.05
+V. Kovac,AMF,0.59,1,-0.41000000000000003
+V. Kovac,CF,1.0,1,0.0
+V. Kovac,LAMF,0.05,0,0.05
+V. Kovac,"LAMF, RCMF3",0.09,0,0.09
+W. Smith,CF,0.0,0,0.0
+Z. Babiak,CF,1.65,1,0.6499999999999999
+Z. Martens,"DMF, RCMF3",0.05,0,0.05
+Z. Martens,LCMF,0.05,0,0.05
+Z. Martens,RCMF,0.03,0,0.03
+Z. Ramsey,AMF,0.05,0,0.05
+Z. Ramsey,LAMF,0.53,1,-0.47
+Z. Ramsey,"LAMF, LW",0.09,0,0.09
+Z. Ramsey,"LAMF, RAMF",0.31,0,0.31
