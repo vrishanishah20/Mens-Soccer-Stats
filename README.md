@@ -2,7 +2,17 @@
 
 The **Soccer Match Video Analyzer** is a Streamlit-based web application that processes soccer match videos to extract key frames and analyze them using OpenAI's API. The tool is designed to help coaches, analysts, and enthusiasts gain insights from soccer match footage efficiently.
 
+## About
+
+This app is a powerful tool for soccer coaches looking to enhance their game analysis and decision-making. By leveraging advanced video processing and AI-powered insights, coaches can quickly identify key moments in a match, assess player performance, and gain strategic insights. The Soccer Match Video Analyzer simplifies the process of analyzing game footage, enabling coaches to focus on creating winning strategies and improving team performance.
+
 ---
+
+## Exploratory Data Analysis
+
+1. Player Position Stats with percentage of winning based on layers position.
+2. Pin pointing the strengths and weaknesses of players based on the entire roster of players, applying formulae to find the range in which the players lie.
+3. Prediction model to predict the probability of a goal using the players position using appropriate features.
 
 ## Features
 
@@ -43,11 +53,6 @@ streamlit run app.py
 4.	Analyze Video:
 	•	The app will process the video and provide AI-generated insights on the extracted frames.
 
-## About
 
-This app is a powerful tool for soccer coaches looking to enhance their game analysis and decision-making. By leveraging advanced video processing and AI-powered insights, coaches can quickly identify key moments in a match, assess player performance, and gain strategic insights. The Soccer Match Video Analyzer simplifies the process of analyzing game footage, enabling coaches to focus on creating winning strategies and improving team performance.
 
-## Exploratory Data Anakysis
 
-1. Team Winning Losing Stats: 
-2. 
