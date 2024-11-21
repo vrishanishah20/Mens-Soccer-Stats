@@ -46,3 +46,8 @@ streamlit run app.py
 ## About
 
 This app is a powerful tool for soccer coaches looking to enhance their game analysis and decision-making. By leveraging advanced video processing and AI-powered insights, coaches can quickly identify key moments in a match, assess player performance, and gain strategic insights. The Soccer Match Video Analyzer simplifies the process of analyzing game footage, enabling coaches to focus on creating winning strategies and improving team performance.
+
+## Exploratory Data Anakysis
+
+1. Team Winning Losing Stats: 
+2. 
