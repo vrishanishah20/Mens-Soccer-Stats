@@ -49,11 +49,11 @@ streamlit run app.py
 ```
 
 2.	Upload a Video:
-	•	Once the app is running, you can upload a soccer match video from the interface.
-3.	Configure Settings:
-	•	Enter your OpenAI API key in the settings sidebar.
-4.	Analyze Video:
-	•	The app will process the video and provide AI-generated insights on the extracted frames.
+   - Once the app is running, you can upload a soccer match video from the interface.
+4.	Configure Settings:
+   - Enter your OpenAI API key in the settings sidebar.
+5.	Analyze Video:
+   - The app will process the video and provide AI-generated insights on the extracted frames.
 
 
 
